@@ -87,6 +87,7 @@ Contributors
 ------------
 
 * Adil Houmadi <adil.houmadi@gmail.com>
+* Alex Comba <alex.comba@agilebg.com>
 
 Maintainer
 ----------
