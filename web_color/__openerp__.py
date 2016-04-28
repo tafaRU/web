@@ -39,7 +39,7 @@
         'static/lib/really-simple-color-picker/colorPicker.css',
      ],
     'qweb' : ['static/src/xml/lib.xml'],
-    'installable': False,
+    'installable': True,
     'auto_install': False,
     'web_preload': False,
 }
